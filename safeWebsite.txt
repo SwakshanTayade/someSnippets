@@ -1,1 +1,4 @@
-https://transparencyreport.google.com/safe-browsing/search?url=http:%2F%2Fchabeb-lmosta9bl.rf.gd%2F&hl=en 81
+1. Got to search google console.
+2. Add the html tag in the root index.html.
+3. redeploy the website.
+4. if after clicking on add property encounters any issuse click on the review request and just add text like solved    issue, it will review and the website is ready to go
